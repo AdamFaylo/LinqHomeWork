@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqHomeWork", "LinqHomeWork\LinqHomeWork.csproj", "{EF40E6E0-273F-4A73-9A27-1381BFE918AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElectronicCardTransactions", "ElectronicCardTransactions\ElectronicCardTransactions.csproj", "{494028DD-AAE2-417D-B45B-8608D9497A18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF40E6E0-273F-4A73-9A27-1381BFE918AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF40E6E0-273F-4A73-9A27-1381BFE918AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF40E6E0-273F-4A73-9A27-1381BFE918AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF40E6E0-273F-4A73-9A27-1381BFE918AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{494028DD-AAE2-417D-B45B-8608D9497A18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{494028DD-AAE2-417D-B45B-8608D9497A18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{494028DD-AAE2-417D-B45B-8608D9497A18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{494028DD-AAE2-417D-B45B-8608D9497A18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45A5D34B-8962-4E79-B78E-9CED1FF3B810}
+	EndGlobalSection
+EndGlobal
